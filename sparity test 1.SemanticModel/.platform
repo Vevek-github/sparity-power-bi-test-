@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "sparity test 1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9a4352fd-b1bc-4b2d-b58c-90b977a50c78"
+  }
+}
